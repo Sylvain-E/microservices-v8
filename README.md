@@ -1,3 +1,5 @@
+TBD - https://thepracticaldeveloper.com/how-to-fix-eureka-taking-too-long-to-deregister-instances/
+
 # Learn Microservices with Spring Boot - v8
 
 This project contains the version 8 of the application that is developed under the scope of the book *Learn Microservices with Spring Boot*. You can get a copy of the book on [Amazon](http://amzn.to/2FSB2ME) or [Apress](http://www.apress.com/book/9781484231647).
